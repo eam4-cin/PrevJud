@@ -2,7 +2,6 @@ Feature de TS-Testes feitos e inserido na master
 
 - Cenário 1
 - Cenário 2
-dfsd
 - Cenário de Falha 1
 - Cenário de Falha 2X
   - Passo adicional no cenário de Falha 2
