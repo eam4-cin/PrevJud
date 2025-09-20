@@ -1,4 +1,4 @@
-Feature de TS
+Feature de TS-Testes feitos e inserido na master
 
 - Cenário 1
 - Cenário 2
