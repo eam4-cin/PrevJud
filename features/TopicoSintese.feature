@@ -12,4 +12,5 @@ Feature de TS-Testes feitos e inserido na master
 -Cenário Adicionado na Branch2 alterado na fix
 -Cenário Adicionado na Branch2
 -Inserida linha branch dev
+-Cenario de criação de promoção alterado
 
